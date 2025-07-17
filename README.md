@@ -3,6 +3,7 @@
 An AI-powered Data Analyst built with LLaMA 4 Maverick using langchain — upload any dataset and ask questions in plain English. Get instant analysis, visualizations, and actionable insights using LLMs and Python.
 
 
+
 ## 📌 Features
 
 - 📁 Upload CSV or Excel files directly in the UI.
@@ -12,7 +13,9 @@ An AI-powered Data Analyst built with LLaMA 4 Maverick using langchain — uploa
 - ⚡ Streamlit-based frontend for seamless interaction.
 
 
+
 ## 🚀 Getting Started
+
 
 ### 🛠️ Installation
 
