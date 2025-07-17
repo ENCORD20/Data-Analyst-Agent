@@ -46,4 +46,4 @@ pip install -r requirements.txt
 streamlit run main/app.py
 ```
 
-Then open your browser at: http://localhost:8501
+Then open your browser in your local machine and enjoy your Data Analyst agent!
